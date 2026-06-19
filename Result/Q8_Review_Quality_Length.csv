@@ -1,0 +1,6 @@
+length_tier,avg_helpfulness_ratio,total_reviews_in_tier
+1. Short (< 50 words),0.5529,105378
+2. Medium (50 - 99 words),0.6648,142034
+3. Long (100 - 299 words),0.7422,231786
+4. Essay (300 - 499 words),0.7876,40908
+5. Novel (500+ words),0.7912,15420
