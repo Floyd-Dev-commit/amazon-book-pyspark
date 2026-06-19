@@ -44,7 +44,7 @@ The refined data is utilized to generate multi-dimensional strategic matrices ev
 
 ├── dataset/                    # Directory for raw CSV data (excluded via .gitignore)
 ├── Result/                     # Directory containing aggregated CSV outputs from Spark
-├── main_2.ipynb                # Main PySpark ETL and visualization notebook
+├── main.ipynb                # Main PySpark ETL and visualization notebook
 ├── requirements.txt            # Python environment dependencies
 └── README.md                   # Project documentation
 
